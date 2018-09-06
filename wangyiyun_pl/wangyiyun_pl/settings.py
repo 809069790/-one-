@@ -94,4 +94,4 @@ ITEM_PIPELINES = {
 MYSQL_HOST = '192.168.100.115'
 MYSQL_DBNAME = 'wangyiyun'
 MYSQL_USER = 'root'
-MYSQL_PASSWD = 'zhuyuli'
+MYSQL_PASSWD = '****'
